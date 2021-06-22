@@ -239,7 +239,7 @@
     flex-direction: column;
     justify-content: center;
     border-radius: 13px;
-    background: url("assets/assets/restaurant.jpg") center center / cover
+    background: url("restaurant.jpg") center center / cover
       no-repeat;
     z-index: -6;
   }
